@@ -33,3 +33,7 @@ print(plane1.color)
 print(plane1.seats)
 print(plane1.Category)
 
+dfsd
+dsf
+
+
