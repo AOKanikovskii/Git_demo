@@ -34,4 +34,9 @@ print(plane1.seats)
 print(plane1.Category)
 
 
+def add(a, b):
+    return a+b
+
+def multi(a, b):
+    return a*b
 
